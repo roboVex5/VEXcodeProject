@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "VEXcodeProject",
+		"slot": 1,
+		"description": "",
+		"platform": "V5",
+		"creationDate": "Mon, 23 Oct 2023 05:47:41 GMT",
+		"language": "python",
+		"python": {
+			"main": "\\src\\main.py"
+		},
+		"sdkVersion": "V5_1_0_1_15"
+	},
+	"extension": {
+		"version": "0.5.0",
+		"json": 1
+	}
+}
