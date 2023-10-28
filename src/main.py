@@ -5,6 +5,7 @@ import urandom
 # Brain should be defined by default
 brain=Brain()
 
+# Test Changes by Clement
 # Robot configuration code
 left_motor_a = Motor(Ports.PORT2, GearSetting.RATIO_18_1, False)
 left_motor_b = Motor(Ports.PORT1, GearSetting.RATIO_18_1, False)
